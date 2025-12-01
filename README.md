@@ -40,4 +40,5 @@ The dashboard helps understand sales performance, customer activity and revenue 
 - View seasonal and time-based trends  
 - Understand customer spending patterns  
 
+- Dashboard
 <a href='https://github.com/pavanpnaik99-sketch/Excel-Dashboard/blob/main/sales-anlysis.png'>dashboard</a>
