@@ -29,3 +29,4 @@ Excel Pivot Tables
 Excel Pivot Charts
 Slicers for interactive filtering
 Basic data modeling and cleaning in Excel
+<a href='https://github.com/pavanpnaik99-sketch/Excel-Dashboard/blob/main/sales-anlysis.png'>dashboard</a>
