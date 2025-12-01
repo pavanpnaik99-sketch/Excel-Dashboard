@@ -3,31 +3,41 @@ Sales Analysis Dashboard built in Excel to track business performance with insig
 📊 Sales Analysis Dashboard
 
 # # This project presents a complete Sales Analysis dashboard built in Microsoft Excel. The dashboard provides clear insights into business performance using visual charts and key metrics. It helps stakeholders track revenue trends, order counts and customer behavior across different dimensions.
+# Sales Analysis Dashboard
 
-# # 🔍 Key Insights Included
-Total Orders
-Total Revenue
-Average Customer Spending
-Order to Delivery Time
-📈 Visual Analytics
+This project includes a Sales Analysis Dashboard created in Microsoft Excel.  
+It highlights key business metrics with clear visual charts.  
+The dashboard helps understand sales performance, customer activity and revenue trends.
 
+**Key Insights:**
+- Total Orders  
+- Total Revenue  
+- Average Customer Spending  
+- Order to Delivery Time  
 
-# # The dashboard includes the following visual components:
-Revenue by Occasion
-Revenue by Category
-Revenue by Hour (Order Time)
-Revenue by Months
-Top 5 Products by Revenue
-Top 10 Cities by Orders
+**Visuals Included:**
+- Revenue by Occasion  
+- Revenue by Category  
+- Revenue by Hour  
+- Revenue by Month  
+- Top 5 Products by Revenue  
+- Top 10 Cities by Orders  
 
-# #🎯 Filters Available
-Date Filter (Delivery Date and Order Date Timeline)
-Occasion Filter
-These filters allow viewers to drill down into specific events and time ranges.
+**Filters Available:**
+- Delivery Date  
+- Order Date Timeline  
+- Occasion Filter  
 
-# #🧩 Tools Used
-Excel Pivot Tables
-Excel Pivot Charts
-Slicers for interactive filtering
-Basic data modeling and cleaning in Excel
+**Tools Used:**
+- Excel Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- Basic data cleaning  
+
+**Purpose:**
+- Identify top selling products  
+- Track high performing categories  
+- View seasonal and time-based trends  
+- Understand customer spending patterns  
+
 <a href='https://github.com/pavanpnaik99-sketch/Excel-Dashboard/blob/main/sales-anlysis.png'>dashboard</a>
